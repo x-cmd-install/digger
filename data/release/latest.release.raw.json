@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 81592320,
       "digest": "sha256:061a28c8541cdf8ea4d3a543c27c269db1fc54a3eb7a255b7db41e873037f930",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-11T19:01:43Z",
       "updated_at": "2026-08-11T19:01:47Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.149/dgctl-windows-arm"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 109105826,
       "digest": "sha256:0860b7e4516b727ea3a7d7ac0969db5f52f9c926d38a9e2aa446e128d839ded3",
-      "download_count": 1813,
+      "download_count": 1819,
       "created_at": "2026-08-11T19:02:00Z",
       "updated_at": "2026-08-11T19:02:04Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.149/digger-cli-linux-arm64"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 115582764,
       "digest": "sha256:4529a9cfd0631e5b81e3bc85ad41e6a2efe828935bc463f743c8d872df9a5b25",
-      "download_count": 15002,
+      "download_count": 15061,
       "created_at": "2026-08-11T19:01:38Z",
       "updated_at": "2026-08-11T19:01:42Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.149/digger-cli-Linux-X64"
@@ -3091,7 +3091,7 @@
       "state": "uploaded",
       "size": 108434970,
       "digest": "sha256:87828ea72f0c7299bdef2a31cc3164cc01c2053d3679a6e360037106475acdf0",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-11T19:02:28Z",
       "updated_at": "2026-08-11T19:02:34Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.149/digger-ee-cli-linux-386"
@@ -3379,7 +3379,7 @@
       "state": "uploaded",
       "size": 115702674,
       "digest": "sha256:d472a0063236db541feb425f16e5d834ac74c10be8454c4a7592073b32a4a9cc",
-      "download_count": 3510,
+      "download_count": 3557,
       "created_at": "2026-08-11T19:01:48Z",
       "updated_at": "2026-08-11T19:01:52Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.149/digger-ee-cli-Linux-X64"
