@@ -1,6 +1,24 @@
----
-owner-repo: diggerhq/digger
-desc:   Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️   
----
-
 # digger
+
+Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  
+
+- **Upstream**: <https://github.com/diggerhq/digger>
+- **Homepage**: <https://digger.dev>
+- **Latest release**: `v0.6.149` (2026-08-11)
+- **Last commit**: 2026-07-21
+- **License**: MIT
+- **Stars**: 5041 · **Forks**: 609 · **Open issues**: 631 · **Contributors**: 83
+
+## Installation
+
+```sh
+x install digger
+```
+
+See <https://x-cmd.com/install/digger> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T10:47:42Z._
