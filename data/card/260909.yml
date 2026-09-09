@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.149"
   latestRelease: "v0.6.149"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:35:14Z
+  collectedAt: 2026-09-09T18:49:27Z
 timeline:
   created: 2023-02-24
   lastCommit: 2026-07-21
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 5043
   watcher: 18
-  fork: 609
+  fork: 608
   release: 440
   contributor: 83
   pullRequest: 2056
@@ -92,7 +92,7 @@ total:
   commit: 2956
 ---
 path: /home/runner/.x-repo/github.com/diggerhq/digger
-collectedAt: 2026-09-09T04:35:38Z
+collectedAt: 2026-09-09T18:49:45Z
 loc:
   Go:
     code: 66851
