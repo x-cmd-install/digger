@@ -1,0 +1,437 @@
+- repo: alt_p11
+  srcname: digger
+  binnames:
+    - digger
+    - digger-debuginfo
+  visiblename: digger
+  version: "20130313"
+  origversion: 20130313-alt1.qa1
+  status: incorrect
+  summary: A Game of Digger
+  maintainers:
+    - glebfm@altlinux.org
+  licenses:
+    - Distributable
+  categories:
+    - Games/Arcade
+- repo: altsisyphus
+  srcname: digger
+  binnames:
+    - digger
+    - digger-debuginfo
+  visiblename: digger
+  version: "20160420"
+  origversion: 20160420-alt1
+  status: untrusted
+  summary: A Game of Digger
+  maintainers:
+    - lav@altlinux.org
+  licenses:
+    - Distributable
+  categories:
+    - Games/Arcade
+- repo: aur
+  srcname: digger
+  binname: digger
+  visiblename: digger
+  version: "20020314"
+  origversion: 20020314-6
+  status: newest
+  summary: the digger game, cloned and remastered with additional features
+  maintainers:
+    - chris_l@aur
+  licenses:
+    - GPL
+- repo: debian_14
+  subrepo: forky/main
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: outdated
+  maintainers:
+    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
+    - jbicha@ubuntu.com
+  categories:
+    - utils
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: outdated
+  maintainers:
+    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
+    - jbicha@ubuntu.com
+  categories:
+    - utils
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: outdated
+  maintainers:
+    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
+    - jbicha@ubuntu.com
+  categories:
+    - utils
+- repo: fedora_42
+  subrepo: updates
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.1.4
+  origversion: 2.1.4-2.fc42
+  status: outdated
+  summary: Advanced DNS Lookup Tool
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.6.1
+  origversion: 2.6.1-1.fc43
+  status: outdated
+  summary: Advanced DNS Lookup Tool
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.6.1
+  origversion: 2.6.1-1.fc44
+  status: outdated
+  summary: Advanced DNS Lookup Tool
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.6.1
+  origversion: 2.6.1-2.fc45
+  status: outdated
+  summary: Advanced DNS Lookup Tool
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: freebsd
+  srcname: games/digger-vgl
+  binname: digger
+  visiblename: games/digger-vgl
+  version: "20020314"
+  origversion: "20020314_3"
+  status: newest
+  summary: FreeBSD graphics console (VGL) version of the famous Digger game
+  maintainers:
+    - ports@freebsd.org
+  categories:
+    - games
+- repo: gentoo
+  srcname: games-arcade/digger
+  visiblename: games-arcade/digger
+  version: "20140423"
+  origversion: 20140423-r2
+  status: incorrect
+  summary: Digger Remastered
+  maintainers:
+    - games@gentoo.org
+  licenses:
+    - GPL-2
+  categories:
+    - games-arcade
+- repo: haikuports_master
+  srcname: games-arcade/digger
+  visiblename: games-arcade/digger
+  version: "20020314"
+  origversion: null
+  status: newest
+  categories:
+    - games-arcade
+- repo: kali_rolling
+  subrepo: main
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: outdated
+  maintainers:
+    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
+    - jbicha@ubuntu.com
+  categories:
+    - utils
+- repo: liguros_stable
+  srcname: games-arcade/digger
+  visiblename: games-arcade/digger
+  version: "20140423"
+  origversion: 20140423-r2
+  status: incorrect
+  summary: Digger Remastered
+  maintainers:
+    - games@gentoo.org
+  licenses:
+    - GPL-2
+  categories:
+    - games-arcade
+- repo: liguros_develop
+  srcname: games-arcade/digger
+  visiblename: games-arcade/digger
+  version: "20140423"
+  origversion: 20140423-r2
+  status: incorrect
+  summary: Digger Remastered
+  maintainers:
+    - games@gentoo.org
+  licenses:
+    - GPL-2
+  categories:
+    - games-arcade
+- repo: slackbuilds
+  srcname: games/digger
+  visiblename: games/digger
+  version: "20020314"
+  origversion: null
+  status: newest
+  maintainers:
+    - slackbuilds@schoepfer.info
+  categories:
+    - games
+- repo: macports
+  srcname: games/digger
+  binname: digger
+  visiblename: digger
+  version: "20020314"
+  origversion: null
+  status: newest
+  summary: the Digger game
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - unknown
+  categories:
+    - games
+- repo: mageia_10
+  subrepo: core/release
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: "20160420"
+  origversion: 20160420-5.mga10
+  status: incorrect
+  summary: The Unix version of the old classic game Digger
+  licenses:
+    - GPLv2
+  categories:
+    - Games/Arcade
+- repo: mageia_9
+  subrepo: core/release
+  srcname: digger
+  binnames:
+    - digger
+    - digger-debuginfo
+    - digger-debugsource
+  visiblename: digger
+  version: "20160420"
+  origversion: 20160420-4.mga9
+  status: incorrect
+  summary: The Unix version of the old classic game Digger
+  licenses:
+    - GPLv2
+  categories:
+    - Games/Arcade
+- repo: mageia_cauldron
+  subrepo: core/release
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: "20160420"
+  origversion: 20160420-5.mga10
+  status: incorrect
+  summary: The Unix version of the old classic game Digger
+  licenses:
+    - GPLv2
+  categories:
+    - Games/Arcade
+- repo: opensuse_games_tumbleweed
+  srcname: digger
+  binnames:
+    - digger
+    - digger-debuginfo
+    - digger-debugsource
+  visiblename: digger
+  version: "20020314"
+  origversion: 20020314-4.25
+  status: newest
+  summary: Unix Version of the old Classic Game
+  licenses:
+    - GPL-2.0+
+  categories:
+    - Amusements/Games/Action/Arcade
+- repo: opensuse_games_tumbleweed
+  srcname: digger
+  binnames:
+    - digger
+    - digger-debuginfo
+    - digger-debugsource
+  visiblename: digger
+  version: "20020314"
+  origversion: 20020314-4.26
+  status: newest
+  summary: Unix Version of the old Classic Game
+  licenses:
+    - GPL-2.0+
+  categories:
+    - Amusements/Games/Action/Arcade
+- repo: os4depot
+  binname: game/misc/digger.lha
+  visiblename: digger.lha
+  version: JP20140213
+  origversion: null
+  status: outdated
+  summary: Classic arcade game
+  categories:
+    - game/misc
+- repo: pkgsrc_2026_1
+  srcname: games/digger
+  binname: digger
+  visiblename: games/digger
+  version: "20020314"
+  origversion: 20020314nb8
+  status: newest
+  summary: Digger Remastered
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - games
+- repo: pkgsrc_2026_2
+  srcname: games/digger
+  binname: digger
+  visiblename: games/digger
+  version: "20020314"
+  origversion: 20020314nb8
+  status: newest
+  summary: Digger Remastered
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - games
+- repo: pkgsrc_current
+  srcname: games/digger
+  binname: digger
+  visiblename: games/digger
+  version: "20020314"
+  origversion: 20020314nb8
+  status: newest
+  summary: Digger Remastered
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - games
+- repo: raspbian_testing
+  subrepo: main
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: outdated
+  maintainers:
+    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
+    - jbicha@ubuntu.com
+  categories:
+    - utils
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: digger
+  binnames:
+    - digger
+    - digger-debuginfo
+    - digger-debugsource
+  visiblename: digger
+  version: "20160420"
+  origversion: 20160420-3
+  status: incorrect
+  summary: The Unix version of the old classic game Digger
+  maintainers:
+    - survolog@yandex.ru
+  licenses:
+    - GPLv2+
+  categories:
+    - Games/Arcade
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: digger
+  binnames:
+    - digger
+    - digger-debuginfo
+    - digger-debugsource
+  visiblename: digger
+  version: "20240114"
+  origversion: 20240114-1.gitb72f36.1
+  status: untrusted
+  summary: The Unix version of the old classic game Digger
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - GPLv2+
+  categories:
+    - Games/Arcade
+- repo: rpmsphere
+  srcname: digger
+  binnames:
+    - digger
+    - digger-debuginfo
+    - digger-debugsource
+  visiblename: digger
+  version: "20020314"
+  origversion: 20020314-1
+  status: newest
+  summary: 經典遊戲 Digger 的 Unix 版本
+  licenses:
+    - GPL
+  categories:
+    - Amusements/Games
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: outdated
+  maintainers:
+    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
+    - jbicha@ubuntu.com
+  categories:
+    - universe/utils
