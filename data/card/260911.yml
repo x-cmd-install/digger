@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.150"
   latestRelease: "v0.6.150"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:37:59Z
+  collectedAt: 2026-09-11T20:24:33Z
 timeline:
   created: 2023-02-24
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 5045
+  star: 5044
   watcher: 18
   fork: 609
   release: 441
   contributor: 83
   pullRequest: 2057
-  issue: 631
+  issue: 632
 language:
   Go: 2782385
   TypeScript: 562597
@@ -41,7 +41,7 @@ recent:
     mergedPR: 1
     openPR: 3
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 1
   last60d:
     since: 2026-07-13
@@ -49,7 +49,7 @@ recent:
     mergedPR: 2
     openPR: 8
     closedIssue: 0
-    openIssue: 9
+    openIssue: 10
     commit: 2
   last90d:
     since: 2026-06-13
@@ -57,7 +57,7 @@ recent:
     mergedPR: 3
     openPR: 12
     closedIssue: 0
-    openIssue: 14
+    openIssue: 15
     commit: 3
   last180d:
     since: 2026-03-15
@@ -65,7 +65,7 @@ recent:
     mergedPR: 15
     openPR: 32
     closedIssue: 2
-    openIssue: 20
+    openIssue: 21
     commit: 20
   last360d:
     since: 2025-09-16
@@ -73,7 +73,7 @@ recent:
     mergedPR: 308
     openPR: 65
     closedIssue: 13
-    openIssue: 61
+    openIssue: 62
     commit: 322
   last720d:
     since: 2024-09-21
@@ -81,18 +81,18 @@ recent:
     mergedPR: 591
     openPR: 68
     closedIssue: 45
-    openIssue: 148
+    openIssue: 149
     commit: 775
 total:
   release: 441
   mergedPR: 1725
   openPR: 68
   closedIssue: 217
-  openIssue: 414
+  openIssue: 415
   commit: 2957
 ---
 path: /home/runner/.x-repo/github.com/diggerhq/digger
-collectedAt: 2026-09-11T04:38:14Z
+collectedAt: 2026-09-11T20:24:46Z
 loc:
   Go:
     code: 66866

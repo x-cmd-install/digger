@@ -1,3 +1,45 @@
+- repo: fedora_42
+  subrepo: updates
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.1.4
+  origversion: 2.1.4-2.fc42
+  status: outdated
+  summary: Advanced DNS Lookup Tool
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.6.1
+  origversion: 2.6.1-1.fc43
+  status: outdated
+  summary: Advanced DNS Lookup Tool
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.6.1
+  origversion: 2.6.1-1.fc44
+  status: outdated
+  summary: Advanced DNS Lookup Tool
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
 - repo: alt_p11
   srcname: digger
   binnames:
@@ -84,48 +126,6 @@
     - jbicha@ubuntu.com
   categories:
     - utils
-- repo: fedora_42
-  subrepo: updates
-  srcname: digger
-  binnames:
-    - digger
-  visiblename: digger
-  version: 2.1.4
-  origversion: 2.1.4-2.fc42
-  status: outdated
-  summary: Advanced DNS Lookup Tool
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_43
-  subrepo: updates
-  srcname: digger
-  binnames:
-    - digger
-  visiblename: digger
-  version: 2.6.1
-  origversion: 2.6.1-1.fc43
-  status: outdated
-  summary: Advanced DNS Lookup Tool
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_44
-  subrepo: release
-  srcname: digger
-  binnames:
-    - digger
-  visiblename: digger
-  version: 2.6.1
-  origversion: 2.6.1-1.fc44
-  status: outdated
-  summary: Advanced DNS Lookup Tool
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: digger
@@ -213,16 +213,6 @@
     - GPL-2
   categories:
     - games-arcade
-- repo: slackbuilds
-  srcname: games/digger
-  visiblename: games/digger
-  version: "20020314"
-  origversion: null
-  status: newest
-  maintainers:
-    - slackbuilds@schoepfer.info
-  categories:
-    - games
 - repo: macports
   srcname: games/digger
   binname: digger
@@ -281,21 +271,6 @@
     - GPLv2
   categories:
     - Games/Arcade
-- repo: opensuse_games_tumbleweed
-  srcname: digger
-  binnames:
-    - digger
-    - digger-debuginfo
-    - digger-debugsource
-  visiblename: digger
-  version: "20020314"
-  origversion: 20020314-4.25
-  status: newest
-  summary: Unix Version of the old Classic Game
-  licenses:
-    - GPL-2.0+
-  categories:
-    - Amusements/Games/Action/Arcade
 - repo: opensuse_games_tumbleweed
   srcname: digger
   binnames:
@@ -421,6 +396,16 @@
     - GPL
   categories:
     - Amusements/Games
+- repo: slackbuilds
+  srcname: games/digger
+  visiblename: games/digger
+  version: "20020314"
+  origversion: null
+  status: newest
+  maintainers:
+    - slackbuilds@schoepfer.info
+  categories:
+    - games
 - repo: ubuntu_26_10
   subrepo: stonking/universe
   srcname: digger
