@@ -26,13 +26,13 @@ x install digger
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.4 / 10**
+总评分: **4.6 / 10**
 
 评分最低的几项:
 
-- **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -42,13 +42,13 @@ x install digger
 
 ## 发布
 
-- **最新版本**: `vLatest` (2026-09-13)
+- **最新版本**: `vLatest` (2026-09-15)
 - **最近提交**: 2026-09-13
 - **Release 含资产**: 61 个
 
 ## 流行度
 
-- **Star**: 5,045 · **Fork**: 611 · **开放 issue**: 633 · **贡献者**: 84
+- **Star**: 5,046 · **Fork**: 611 · **开放 issue**: 633 · **贡献者**: 84
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install digger
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 3 | 3 | 5 | 1 | 2 | 4 |
-| last60d | 2026-07-17 | 5 | 5 | 8 | 1 | 9 | 4 |
-| 90d | 2026-06-17 | 6 | 6 | 11 | 1 | 12 | 6 |
-| last180d | 2026-03-19 | 14 | 17 | 30 | 2 | 20 | 20 |
-| 360d | 2025-09-20 | 100 | 264 | 66 | 14 | 60 | 276 |
-| last720d | 2024-09-25 | 100 | 591 | 69 | 46 | 149 | 773 |
+| 30d | 2026-08-17 | 3 | 3 | 5 | 1 | 2 | 4 |
+| last60d | 2026-07-18 | 5 | 5 | 8 | 1 | 9 | 4 |
+| 90d | 2026-06-18 | 6 | 6 | 11 | 1 | 12 | 6 |
+| last180d | 2026-03-20 | 14 | 17 | 30 | 2 | 20 | 20 |
+| 360d | 2025-09-21 | 100 | 264 | 66 | 14 | 60 | 276 |
+| last720d | 2024-09-26 | 100 | 591 | 69 | 46 | 149 | 768 |
 
 ## Release 资产
 
@@ -140,4 +140,4 @@ digger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T04:55:48Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T04:45:54Z._
