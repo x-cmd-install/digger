@@ -4,7 +4,7 @@
 
 Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  
 
-![digger](https://repo.x-cmd.io/digger.svg)
+[![x-cmd/install — digger Code Quality Monitoring Repo Card](https://repo.x-cmd.io/digger.svg)](https://x-cmd.com/install/digger)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,045 · **Forks**: 611 · **Open issues**: 635 · **Contributors**: 84
+- **Stars**: 5,044 · **Forks**: 611 · **Open issues**: 635 · **Contributors**: 84
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 3 | 7 | 1 | 4 | 4 |
-| last60d | 2026-07-20 | 5 | 5 | 10 | 1 | 11 | 4 |
-| 90d | 2026-06-20 | 6 | 6 | 13 | 1 | 14 | 6 |
-| last180d | 2026-03-22 | 14 | 16 | 32 | 2 | 22 | 20 |
-| 360d | 2025-09-23 | 100 | 262 | 68 | 14 | 60 | 276 |
-| last720d | 2024-09-28 | 100 | 591 | 71 | 46 | 151 | 767 |
+| 30d | 2026-08-21 | 3 | 3 | 6 | 1 | 4 | 4 |
+| last60d | 2026-07-22 | 4 | 4 | 10 | 1 | 10 | 4 |
+| 90d | 2026-06-22 | 6 | 6 | 13 | 1 | 14 | 5 |
+| last180d | 2026-03-24 | 14 | 15 | 31 | 2 | 22 | 19 |
+| 360d | 2025-09-25 | 100 | 258 | 68 | 14 | 59 | 247 |
+| last720d | 2024-09-30 | 100 | 588 | 71 | 46 | 151 | 767 |
 
 ## Release assets
 
@@ -140,4 +140,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:39:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:55:47Z._
