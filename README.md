@@ -14,11 +14,11 @@ x install digger
 
 ## Code insight
 
-Total: **119,877** lines of code across **722** files in the top 5 languages.
+Total: **119,882** lines of code across **722** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 66,866 | 5,580 | 10,958 | 435 |
+| Go | 66,871 | 5,580 | 10,960 | 435 |
 | Json | 25,777 | 0 | 12 | 25 |
 | Tsx | 9,821 | 154 | 988 | 116 |
 | TypeScript | 4,173 | 315 | 594 | 60 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `vLatest` (2026-09-15)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-20
 - **Assets in release**: 61
 
 ## Popularity
 
-- **Stars**: 5,044 · **Forks**: 611 · **Open issues**: 635 · **Contributors**: 84
+- **Stars**: 5,044 · **Forks**: 611 · **Open issues**: 635 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 442 · **Merged PRs**: 1728 · **Open PRs**: 71 · **Closed issues**: 218 · **Open issues**: 417 · **Commits**: 2960
+- **Releases**: 442 · **Merged PRs**: 1729 · **Open PRs**: 69 · **Closed issues**: 219 · **Open issues**: 416 · **Commits**: 2961
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 3 | 3 | 6 | 1 | 4 | 4 |
-| last60d | 2026-07-22 | 4 | 4 | 10 | 1 | 10 | 4 |
-| 90d | 2026-06-22 | 6 | 6 | 13 | 1 | 14 | 5 |
-| last180d | 2026-03-24 | 14 | 15 | 31 | 2 | 22 | 19 |
-| 360d | 2025-09-25 | 100 | 258 | 68 | 14 | 59 | 247 |
-| last720d | 2024-09-30 | 100 | 588 | 71 | 46 | 151 | 767 |
+| 30d | 2026-08-22 | 3 | 3 | 5 | 2 | 3 | 5 |
+| last60d | 2026-07-23 | 4 | 4 | 9 | 2 | 9 | 5 |
+| 90d | 2026-06-23 | 6 | 6 | 12 | 2 | 13 | 6 |
+| last180d | 2026-03-25 | 14 | 14 | 30 | 3 | 21 | 20 |
+| 360d | 2025-09-26 | 100 | 255 | 66 | 15 | 58 | 248 |
+| last720d | 2024-10-01 | 100 | 585 | 69 | 47 | 150 | 763 |
 
 ## Release assets
 
@@ -140,4 +140,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:55:47Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:55:17Z._
