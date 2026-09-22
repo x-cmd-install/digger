@@ -26,7 +26,7 @@ Total: **119,882** lines of code across **722** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 3 | 3 | 5 | 2 | 3 | 5 |
-| last60d | 2026-07-23 | 4 | 4 | 9 | 2 | 9 | 5 |
-| 90d | 2026-06-23 | 6 | 6 | 12 | 2 | 13 | 6 |
-| last180d | 2026-03-25 | 14 | 14 | 30 | 3 | 21 | 20 |
-| 360d | 2025-09-26 | 100 | 255 | 66 | 15 | 58 | 248 |
-| last720d | 2024-10-01 | 100 | 585 | 69 | 47 | 150 | 763 |
+| 30d | 2026-08-23 | 3 | 3 | 3 | 2 | 3 | 5 |
+| last60d | 2026-07-24 | 4 | 4 | 9 | 2 | 7 | 5 |
+| 90d | 2026-06-24 | 6 | 5 | 12 | 2 | 12 | 6 |
+| last180d | 2026-03-26 | 12 | 14 | 30 | 3 | 21 | 20 |
+| 360d | 2025-09-27 | 100 | 255 | 66 | 15 | 58 | 248 |
+| last720d | 2024-10-02 | 100 | 578 | 69 | 47 | 150 | 756 |
 
 ## Release assets
 
@@ -140,4 +140,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:55:17Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:46:46Z._
