@@ -4,7 +4,7 @@
 
 Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  
 
-[![x-cmd/install — digger Code Quality Monitoring Repo Card](https://repo.x-cmd.io/digger.svg?lang=zh)](https://x-cmd.com/install/digger)
+[![x-cmd/install — digger Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/digger.svg?lang=zh)](https://x-cmd.com/install/digger)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install digger
 
 ## 流行度
 
-- **Star**: 5,044 · **Fork**: 611 · **开放 issue**: 635 · **贡献者**: 85
+- **Star**: 5,043 · **Fork**: 611 · **开放 issue**: 635 · **贡献者**: 85
 
 ## 累计统计
 
-- **发布数**: 442 · **已合并 PR**: 1729 · **开放 PR**: 69 · **已关闭 issue**: 219 · **开放 issue**: 416 · **提交数**: 2961
+- **发布数**: 442 · **已合并 PR**: 1729 · **开放 PR**: 64 · **已关闭 issue**: 219 · **开放 issue**: 416 · **提交数**: 2961
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 3 | 3 | 2 | 3 | 5 |
-| last60d | 2026-07-24 | 4 | 4 | 9 | 2 | 7 | 5 |
-| 90d | 2026-06-24 | 6 | 5 | 12 | 2 | 12 | 6 |
-| last180d | 2026-03-26 | 12 | 14 | 30 | 3 | 21 | 20 |
-| 360d | 2025-09-27 | 100 | 255 | 66 | 15 | 58 | 248 |
-| last720d | 2024-10-02 | 100 | 578 | 69 | 47 | 150 | 756 |
+| 30d | 2026-08-24 | 3 | 3 | 3 | 2 | 3 | 5 |
+| last60d | 2026-07-25 | 4 | 4 | 9 | 2 | 7 | 5 |
+| 90d | 2026-06-25 | 6 | 5 | 12 | 2 | 12 | 6 |
+| last180d | 2026-03-27 | 12 | 14 | 27 | 3 | 21 | 20 |
+| 360d | 2025-09-28 | 100 | 255 | 61 | 15 | 58 | 248 |
+| last720d | 2024-10-03 | 100 | 575 | 64 | 47 | 150 | 745 |
 
 ## Release 资产
 
@@ -140,4 +140,4 @@ digger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:46:47Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:45:17Z._

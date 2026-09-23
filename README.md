@@ -4,7 +4,7 @@
 
 Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  
 
-[![x-cmd/install — digger Code Quality Monitoring Repo Card](https://repo.x-cmd.io/digger.svg)](https://x-cmd.com/install/digger)
+[![x-cmd/install — digger Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/digger.svg)](https://x-cmd.com/install/digger)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,044 · **Forks**: 611 · **Open issues**: 635 · **Contributors**: 85
+- **Stars**: 5,043 · **Forks**: 611 · **Open issues**: 635 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 442 · **Merged PRs**: 1729 · **Open PRs**: 69 · **Closed issues**: 219 · **Open issues**: 416 · **Commits**: 2961
+- **Releases**: 442 · **Merged PRs**: 1729 · **Open PRs**: 64 · **Closed issues**: 219 · **Open issues**: 416 · **Commits**: 2961
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 3 | 3 | 2 | 3 | 5 |
-| last60d | 2026-07-24 | 4 | 4 | 9 | 2 | 7 | 5 |
-| 90d | 2026-06-24 | 6 | 5 | 12 | 2 | 12 | 6 |
-| last180d | 2026-03-26 | 12 | 14 | 30 | 3 | 21 | 20 |
-| 360d | 2025-09-27 | 100 | 255 | 66 | 15 | 58 | 248 |
-| last720d | 2024-10-02 | 100 | 578 | 69 | 47 | 150 | 756 |
+| 30d | 2026-08-24 | 3 | 3 | 3 | 2 | 3 | 5 |
+| last60d | 2026-07-25 | 4 | 4 | 9 | 2 | 7 | 5 |
+| 90d | 2026-06-25 | 6 | 5 | 12 | 2 | 12 | 6 |
+| last180d | 2026-03-27 | 12 | 14 | 27 | 3 | 21 | 20 |
+| 360d | 2025-09-28 | 100 | 255 | 61 | 15 | 58 | 248 |
+| last720d | 2024-10-03 | 100 | 575 | 64 | 47 | 150 | 745 |
 
 ## Release assets
 
@@ -140,4 +140,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:46:46Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:45:16Z._
