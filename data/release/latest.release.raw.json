@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 88132736,
       "digest": "sha256:ecc547901284837b55f4fe9279aaa491026f9792197c7764e175a91ea6c30781",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-30T17:22:22Z",
       "updated_at": "2026-09-30T17:22:26Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.152/dgctl-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 84539410,
       "digest": "sha256:fcdc5558647ad397aec0aa811104378a6e28afac4ab4e4d5b6ec5d9523b76f83",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-30T17:22:28Z",
       "updated_at": "2026-09-30T17:22:31Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.152/dgctl-darwin-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 85689225,
       "digest": "sha256:37399e049f7fed9be4fde65a2130077dcc3f534735c5008c3e5f9db355ce734c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-30T17:22:29Z",
       "updated_at": "2026-09-30T17:22:33Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.152/dgctl-linux-amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 81474975,
       "digest": "sha256:f67baae56b64d46a8068803ec71b97f1065e51f53e6714ef534f43a16c961529",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-30T17:22:27Z",
       "updated_at": "2026-09-30T17:22:31Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.152/dgctl-linux-arm64"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 115589492,
       "digest": "sha256:73d4a41a4f570f2f6701033f93c9957d6e2da12023579d9cd2e4eaddb4bb9206",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-09-30T17:23:26Z",
       "updated_at": "2026-09-30T17:23:30Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.152/digger-cli-linux-amd64"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 115589492,
       "digest": "sha256:73d4a41a4f570f2f6701033f93c9957d6e2da12023579d9cd2e4eaddb4bb9206",
-      "download_count": 366,
+      "download_count": 553,
       "created_at": "2026-09-30T17:22:22Z",
       "updated_at": "2026-09-30T17:22:26Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.152/digger-cli-Linux-X64"
@@ -3379,7 +3379,7 @@
       "state": "uploaded",
       "size": 115719904,
       "digest": "sha256:89ad248fef0ab9c1f45e877797db6f6be805e66f0ffa138159a236160c839293",
-      "download_count": 0,
+      "download_count": 169,
       "created_at": "2026-09-30T17:22:41Z",
       "updated_at": "2026-09-30T17:22:45Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.152/digger-ee-cli-Linux-X64"
@@ -3748,5 +3748,17 @@
   "tarball_url": "https://api.github.com/repos/diggerhq/digger/tarball/v0.6.152",
   "zipball_url": "https://api.github.com/repos/diggerhq/digger/zipball/v0.6.152",
   "body": "## What's Changed\n* fix: adjust GitHub check run char limit considering the MD terraform text wrapper by @sav-valerio in https://github.com/diggerhq/digger/pull/2615\n* fix: honor git_timeout from digger.yml before cloning by @s1ntaxe770r in https://github.com/diggerhq/digger/pull/2724\n\n## New Contributors\n* @sav-valerio made their first contribution in https://github.com/diggerhq/digger/pull/2615\n\n**Full Changelog**: https://github.com/diggerhq/digger/compare/v0.6.151...v0.6.152",
+  "reactions": {
+    "url": "https://api.github.com/repos/diggerhq/digger/releases/400273040/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 2
 }
