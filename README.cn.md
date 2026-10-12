@@ -26,12 +26,12 @@ x install digger
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.7 / 10**
+总评分: **4.9 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
@@ -48,22 +48,22 @@ x install digger
 
 ## 流行度
 
-- **Star**: 5,047 · **Fork**: 612 · **开放 issue**: 643 · **贡献者**: 85
+- **Star**: 5,048 · **Fork**: 611 · **开放 issue**: 643 · **贡献者**: 85
 
 ## 累计统计
 
-- **发布数**: 445 · **已合并 PR**: 1732 · **开放 PR**: 75 · **已关闭 issue**: 221 · **开放 issue**: 422 · **提交数**: 2964
+- **发布数**: 445 · **已合并 PR**: 1732 · **开放 PR**: 77 · **已关闭 issue**: 221 · **开放 issue**: 422 · **提交数**: 2964
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 5 | 5 | 14 | 3 | 8 | 7 |
-| last60d | 2026-08-12 | 6 | 6 | 17 | 4 | 9 | 8 |
-| 90d | 2026-07-13 | 8 | 8 | 21 | 4 | 17 | 9 |
-| last180d | 2026-04-14 | 15 | 16 | 31 | 5 | 25 | 23 |
-| 360d | 2025-10-16 | 100 | 215 | 67 | 16 | 53 | 221 |
-| last720d | 2024-10-21 | 100 | 565 | 75 | 48 | 154 | 726 |
+| 30d | 2026-09-12 | 5 | 3 | 16 | 3 | 8 | 4 |
+| last60d | 2026-08-13 | 6 | 6 | 19 | 4 | 9 | 8 |
+| 90d | 2026-07-14 | 8 | 8 | 23 | 4 | 17 | 9 |
+| last180d | 2026-04-15 | 14 | 16 | 33 | 5 | 25 | 22 |
+| 360d | 2025-10-17 | 100 | 214 | 69 | 16 | 53 | 214 |
+| last720d | 2024-10-22 | 100 | 565 | 77 | 48 | 154 | 725 |
 
 ## Release 资产
 
@@ -182,4 +182,4 @@ digger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261011.yml` · 2026-10-11T05:49:54Z._
+_数据快照: `data/card/261012.yml` · 2026-10-12T05:58:41Z._
