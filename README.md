@@ -30,8 +30,8 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,052 · **Forks**: 610 · **Open issues**: 644 · **Contributors**: 85
+- **Stars**: 5,056 · **Forks**: 610 · **Open issues**: 644 · **Contributors**: 85
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 3 | 3 | 15 | 2 | 7 | 3 |
-| last60d | 2026-08-20 | 6 | 6 | 20 | 4 | 10 | 8 |
-| 90d | 2026-07-21 | 8 | 7 | 23 | 4 | 17 | 8 |
-| last180d | 2026-04-22 | 14 | 15 | 33 | 4 | 25 | 15 |
-| 360d | 2025-10-24 | 100 | 204 | 70 | 16 | 54 | 183 |
-| last720d | 2024-10-29 | 100 | 554 | 78 | 47 | 154 | 720 |
+| 30d | 2026-09-20 | 3 | 3 | 15 | 2 | 7 | 3 |
+| last60d | 2026-08-21 | 6 | 6 | 19 | 4 | 10 | 8 |
+| 90d | 2026-07-22 | 7 | 7 | 23 | 4 | 16 | 8 |
+| last180d | 2026-04-23 | 14 | 15 | 33 | 4 | 25 | 15 |
+| 360d | 2025-10-25 | 100 | 204 | 70 | 16 | 54 | 183 |
+| last720d | 2024-10-30 | 100 | 554 | 78 | 47 | 154 | 716 |
 
 ## Release assets
 
@@ -182,4 +182,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:35:57Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:43:49Z._
