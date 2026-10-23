@@ -14,11 +14,11 @@ x install digger
 
 ## Code insight
 
-Total: **120,428** lines of code across **733** files in the top 5 languages.
+Total: **120,802** lines of code across **736** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 67,417 | 5,593 | 11,008 | 446 |
+| Go | 67,791 | 5,613 | 11,056 | 449 |
 | Json | 25,777 | 0 | 12 | 25 |
 | Tsx | 9,821 | 154 | 988 | 116 |
 | TypeScript | 4,173 | 315 | 594 | 60 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.154` (2026-10-07)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-22
 - **Assets in release**: 103
 
 ## Popularity
 
-- **Stars**: 5,055 · **Forks**: 611 · **Open issues**: 644 · **Contributors**: 85
+- **Stars**: 5,055 · **Forks**: 612 · **Open issues**: 644 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 445 · **Merged PRs**: 1732 · **Open PRs**: 78 · **Closed issues**: 221 · **Open issues**: 423 · **Commits**: 2964
+- **Releases**: 445 · **Merged PRs**: 1734 · **Open PRs**: 76 · **Closed issues**: 221 · **Open issues**: 423 · **Commits**: 2966
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 3 | 14 | 2 | 7 | 3 |
-| last60d | 2026-08-23 | 6 | 6 | 17 | 4 | 10 | 8 |
-| 90d | 2026-07-24 | 7 | 7 | 23 | 4 | 14 | 8 |
-| last180d | 2026-04-25 | 13 | 15 | 31 | 4 | 25 | 15 |
-| 360d | 2025-10-27 | 100 | 202 | 70 | 16 | 54 | 183 |
-| last720d | 2024-11-01 | 100 | 548 | 78 | 47 | 154 | 712 |
+| 30d | 2026-09-23 | 3 | 5 | 12 | 2 | 7 | 5 |
+| last60d | 2026-08-24 | 6 | 8 | 15 | 4 | 10 | 10 |
+| 90d | 2026-07-25 | 7 | 9 | 21 | 4 | 14 | 10 |
+| last180d | 2026-04-26 | 13 | 17 | 29 | 4 | 25 | 17 |
+| 360d | 2025-10-28 | 100 | 193 | 68 | 16 | 54 | 185 |
+| last720d | 2024-11-02 | 100 | 550 | 76 | 47 | 154 | 710 |
 
 ## Release assets
 
@@ -173,6 +173,16 @@ Lowest-scoring checks:
 | [digger-ee-cli-windows-arm64.exe.sha256](https://github.com/diggerhq/digger/releases/download/v0.6.154/digger-ee-cli-windows-arm64.exe.sha256) | 65 B | `native/win/arm64` |
 | [LICENSE](https://github.com/diggerhq/digger/releases/download/v0.6.154/LICENSE) | 1.0 KiB | `other` |
 
+## Distribution status
+
+Reported by **31** distros on [repology.org](https://repology.org/project/digger). **10** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.9.1` | ⚠️ outdated |
+| Debian 14 | `2.9.1` | ⚠️ outdated |
+| Fedora rawhide | `2.6.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `digger` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -182,4 +192,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:35:23Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:44:47Z._
