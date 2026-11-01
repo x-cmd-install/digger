@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,061 · **Forks**: 612 · **Open issues**: 647 · **Contributors**: 85
+- **Stars**: 5,062 · **Forks**: 612 · **Open issues**: 647 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 446 · **Merged PRs**: 1734 · **Open PRs**: 79 · **Closed issues**: 221 · **Open issues**: 426 · **Commits**: 2966
+- **Releases**: 446 · **Merged PRs**: 1734 · **Open PRs**: 80 · **Closed issues**: 221 · **Open issues**: 426 · **Commits**: 2966
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 4 | 13 | 2 | 7 | 4 |
-| last60d | 2026-09-01 | 7 | 8 | 18 | 4 | 13 | 10 |
-| 90d | 2026-08-02 | 8 | 8 | 23 | 4 | 15 | 10 |
-| last180d | 2026-05-04 | 14 | 16 | 32 | 4 | 27 | 16 |
-| 360d | 2025-11-05 | 100 | 156 | 68 | 15 | 57 | 158 |
-| last720d | 2024-11-10 | 100 | 540 | 79 | 47 | 154 | 691 |
+| 30d | 2026-10-02 | 3 | 4 | 11 | 0 | 7 | 2 |
+| last60d | 2026-09-02 | 7 | 8 | 19 | 4 | 12 | 10 |
+| 90d | 2026-08-03 | 8 | 8 | 24 | 4 | 15 | 10 |
+| last180d | 2026-05-05 | 12 | 16 | 32 | 4 | 27 | 16 |
+| 360d | 2025-11-06 | 100 | 147 | 69 | 15 | 56 | 119 |
+| last720d | 2024-11-11 | 100 | 534 | 80 | 46 | 154 | 689 |
 
 ## Release assets
 
@@ -192,4 +192,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:28:12Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:59:15Z._
