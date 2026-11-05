@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,063 · **Forks**: 612 · **Open issues**: 651 · **Contributors**: 85
+- **Stars**: 5,064 · **Forks**: 613 · **Open issues**: 653 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 446 · **Merged PRs**: 1734 · **Open PRs**: 82 · **Closed issues**: 221 · **Open issues**: 430 · **Commits**: 2966
+- **Releases**: 446 · **Merged PRs**: 1734 · **Open PRs**: 84 · **Closed issues**: 221 · **Open issues**: 432 · **Commits**: 2966
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 4 | 13 | 0 | 10 | 2 |
-| last60d | 2026-09-05 | 7 | 8 | 21 | 4 | 16 | 10 |
-| 90d | 2026-08-06 | 8 | 8 | 24 | 4 | 17 | 10 |
-| last180d | 2026-05-08 | 12 | 16 | 34 | 4 | 30 | 16 |
-| 360d | 2025-11-09 | 99 | 130 | 71 | 15 | 59 | 119 |
-| last720d | 2024-11-14 | 100 | 529 | 82 | 44 | 157 | 670 |
+| 30d | 2026-10-06 | 3 | 3 | 11 | 0 | 11 | 2 |
+| last60d | 2026-09-06 | 7 | 8 | 23 | 4 | 18 | 10 |
+| 90d | 2026-08-07 | 8 | 8 | 26 | 4 | 19 | 10 |
+| last180d | 2026-05-09 | 12 | 16 | 36 | 4 | 32 | 16 |
+| 360d | 2025-11-10 | 99 | 128 | 73 | 15 | 58 | 119 |
+| last720d | 2024-11-15 | 100 | 526 | 84 | 43 | 159 | 670 |
 
 ## Release assets
 
@@ -173,16 +173,6 @@ Lowest-scoring checks:
 | [digger-ee-cli-windows-arm64.exe.sha256](https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-ee-cli-windows-arm64.exe.sha256) | 65 B | `native/win/arm64` |
 | [LICENSE](https://github.com/diggerhq/digger/releases/download/v0.6.155/LICENSE) | 1.0 KiB | `other` |
 
-## Distribution status
-
-Reported by **31** distros on [repology.org](https://repology.org/project/digger). **10** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.9.1` | ⚠️ outdated |
-| Debian 14 | `2.9.1` | ⚠️ outdated |
-| Fedora rawhide | `2.6.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `digger` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -192,4 +182,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:07:08Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:37:39Z._

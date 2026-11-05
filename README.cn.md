@@ -48,22 +48,22 @@ x install digger
 
 ## 流行度
 
-- **Star**: 5,063 · **Fork**: 612 · **开放 issue**: 651 · **贡献者**: 85
+- **Star**: 5,064 · **Fork**: 613 · **开放 issue**: 653 · **贡献者**: 85
 
 ## 累计统计
 
-- **发布数**: 446 · **已合并 PR**: 1734 · **开放 PR**: 82 · **已关闭 issue**: 221 · **开放 issue**: 430 · **提交数**: 2966
+- **发布数**: 446 · **已合并 PR**: 1734 · **开放 PR**: 84 · **已关闭 issue**: 221 · **开放 issue**: 432 · **提交数**: 2966
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 4 | 13 | 0 | 10 | 2 |
-| last60d | 2026-09-05 | 7 | 8 | 21 | 4 | 16 | 10 |
-| 90d | 2026-08-06 | 8 | 8 | 24 | 4 | 17 | 10 |
-| last180d | 2026-05-08 | 12 | 16 | 34 | 4 | 30 | 16 |
-| 360d | 2025-11-09 | 99 | 130 | 71 | 15 | 59 | 119 |
-| last720d | 2024-11-14 | 100 | 529 | 82 | 44 | 157 | 670 |
+| 30d | 2026-10-06 | 3 | 3 | 11 | 0 | 11 | 2 |
+| last60d | 2026-09-06 | 7 | 8 | 23 | 4 | 18 | 10 |
+| 90d | 2026-08-07 | 8 | 8 | 26 | 4 | 19 | 10 |
+| last180d | 2026-05-09 | 12 | 16 | 36 | 4 | 32 | 16 |
+| 360d | 2025-11-10 | 99 | 128 | 73 | 15 | 58 | 119 |
+| last720d | 2024-11-15 | 100 | 526 | 84 | 43 | 159 | 670 |
 
 ## Release 资产
 
@@ -173,16 +173,6 @@ x install digger
 | [digger-ee-cli-windows-arm64.exe.sha256](https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-ee-cli-windows-arm64.exe.sha256) | 65 B | `native/win/arm64` |
 | [LICENSE](https://github.com/diggerhq/digger/releases/download/v0.6.155/LICENSE) | 1.0 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/digger) 上共有 **31** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.9.1` | ⚠️ outdated |
-| Debian 14 | `2.9.1` | ⚠️ outdated |
-| Fedora rawhide | `2.6.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 digger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `digger` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -192,4 +182,4 @@ digger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:07:09Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:37:39Z._
