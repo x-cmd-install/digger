@@ -48,7 +48,7 @@ x install digger
 
 ## 流行度
 
-- **Star**: 5,064 · **Fork**: 613 · **开放 issue**: 653 · **贡献者**: 85
+- **Star**: 5,062 · **Fork**: 612 · **开放 issue**: 653 · **贡献者**: 85
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install digger
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 3 | 11 | 0 | 11 | 2 |
-| last60d | 2026-09-06 | 7 | 8 | 23 | 4 | 18 | 10 |
-| 90d | 2026-08-07 | 8 | 8 | 26 | 4 | 19 | 10 |
-| last180d | 2026-05-09 | 12 | 16 | 36 | 4 | 32 | 16 |
-| 360d | 2025-11-10 | 99 | 128 | 73 | 15 | 58 | 119 |
-| last720d | 2024-11-15 | 100 | 526 | 84 | 43 | 159 | 670 |
+| 30d | 2026-10-07 | 3 | 2 | 9 | 0 | 10 | 2 |
+| last60d | 2026-09-07 | 7 | 8 | 23 | 4 | 18 | 10 |
+| 90d | 2026-08-08 | 8 | 8 | 26 | 4 | 19 | 10 |
+| last180d | 2026-05-10 | 12 | 16 | 36 | 4 | 32 | 16 |
+| 360d | 2025-11-11 | 98 | 128 | 73 | 15 | 58 | 119 |
+| last720d | 2024-11-16 | 100 | 526 | 84 | 43 | 159 | 665 |
 
 ## Release 资产
 
@@ -173,6 +173,16 @@ x install digger
 | [digger-ee-cli-windows-arm64.exe.sha256](https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-ee-cli-windows-arm64.exe.sha256) | 65 B | `native/win/arm64` |
 | [LICENSE](https://github.com/diggerhq/digger/releases/download/v0.6.155/LICENSE) | 1.0 KiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/digger) 上共有 **31** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.9.1` | ⚠️ outdated |
+| Debian 14 | `2.9.1` | ⚠️ outdated |
+| Fedora rawhide | `2.6.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 digger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `digger` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -182,4 +192,4 @@ digger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T06:37:39Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T06:30:01Z._
