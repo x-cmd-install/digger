@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,062 · **Forks**: 612 · **Open issues**: 653 · **Contributors**: 85
+- **Stars**: 5,062 · **Forks**: 612 · **Open issues**: 653 · **Contributors**: 84
 
 ## Totals (cumulative)
 
-- **Releases**: 446 · **Merged PRs**: 1734 · **Open PRs**: 84 · **Closed issues**: 221 · **Open issues**: 432 · **Commits**: 2966
+- **Releases**: 446 · **Merged PRs**: 1734 · **Open PRs**: 83 · **Closed issues**: 221 · **Open issues**: 432 · **Commits**: 2966
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 3 | 2 | 9 | 0 | 10 | 2 |
-| last60d | 2026-09-07 | 7 | 8 | 23 | 4 | 18 | 10 |
-| 90d | 2026-08-08 | 8 | 8 | 26 | 4 | 19 | 10 |
-| last180d | 2026-05-10 | 12 | 16 | 36 | 4 | 32 | 16 |
-| 360d | 2025-11-11 | 98 | 128 | 73 | 15 | 58 | 119 |
-| last720d | 2024-11-16 | 100 | 526 | 84 | 43 | 159 | 665 |
+| 30d | 2026-10-08 | 1 | 2 | 9 | 0 | 10 | 2 |
+| last60d | 2026-09-08 | 7 | 8 | 22 | 4 | 18 | 10 |
+| 90d | 2026-08-09 | 8 | 8 | 25 | 4 | 19 | 10 |
+| last180d | 2026-05-11 | 12 | 16 | 35 | 4 | 32 | 16 |
+| 360d | 2025-11-12 | 98 | 120 | 72 | 15 | 58 | 119 |
+| last720d | 2024-11-17 | 100 | 526 | 83 | 43 | 159 | 665 |
 
 ## Release assets
 
@@ -175,7 +175,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **31** distros on [repology.org](https://repology.org/project/digger). **10** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **32** distros on [repology.org](https://repology.org/project/digger). **10** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -192,4 +192,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:30:00Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:53:27Z._
