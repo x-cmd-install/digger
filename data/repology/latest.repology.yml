@@ -1,13 +1,3 @@
-- repo: slackbuilds
-  srcname: games/digger
-  visiblename: games/digger
-  version: "20020314"
-  origversion: null
-  status: newest
-  maintainers:
-    - slackbuilds@schoepfer.info
-  categories:
-    - games
 - repo: alt_p11
   srcname: digger
   binnames:
@@ -210,20 +200,6 @@
     - GPL-2
   categories:
     - games-arcade
-- repo: ubuntu_26_10
-  subrepo: stonking/universe
-  srcname: digger
-  binnames:
-    - digger
-  visiblename: digger
-  version: 2.8.0
-  origversion: 2.8.0-1
-  status: outdated
-  maintainers:
-    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
-    - jbicha@ubuntu.com
-  categories:
-    - universe/utils
 - repo: liguros_develop
   srcname: games-arcade/digger
   visiblename: games-arcade/digger
@@ -251,20 +227,6 @@
     - unknown
   categories:
     - games
-- repo: mageia_10
-  subrepo: core/release
-  srcname: digger
-  binnames:
-    - digger
-  visiblename: digger
-  version: "20160420"
-  origversion: 20160420-5.mga10
-  status: incorrect
-  summary: The Unix version of the old classic game Digger
-  licenses:
-    - GPLv2
-  categories:
-    - Games/Arcade
 - repo: mageia_9
   subrepo: core/release
   srcname: digger
@@ -275,6 +237,20 @@
   visiblename: digger
   version: "20160420"
   origversion: 20160420-4.mga9
+  status: incorrect
+  summary: The Unix version of the old classic game Digger
+  licenses:
+    - GPLv2
+  categories:
+    - Games/Arcade
+- repo: mageia_10
+  subrepo: core/release
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: "20160420"
+  origversion: 20160420-5.mga10
   status: incorrect
   summary: The Unix version of the old classic game Digger
   licenses:
@@ -420,3 +396,41 @@
     - GPL
   categories:
     - Amusements/Games
+- repo: slackbuilds
+  srcname: games/digger
+  visiblename: games/digger
+  version: "20020314"
+  origversion: null
+  status: newest
+  maintainers:
+    - slackbuilds@schoepfer.info
+  categories:
+    - games
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: outdated
+  maintainers:
+    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
+    - jbicha@ubuntu.com
+  categories:
+    - universe/utils
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: outdated
+  maintainers:
+    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
+    - jbicha@ubuntu.com
+  categories:
+    - universe/utils
