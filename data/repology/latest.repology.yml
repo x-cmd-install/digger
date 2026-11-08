@@ -434,3 +434,17 @@
     - jbicha@ubuntu.com
   categories:
     - universe/utils
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.9.1
+  origversion: 2.9.1-1
+  status: outdated
+  maintainers:
+    - pkg-gnome-extras-maintainers@lists.alioth.debian.org
+    - jbicha@ubuntu.com
+  categories:
+    - universe/utils
