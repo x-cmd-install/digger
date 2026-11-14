@@ -279,7 +279,7 @@
     - digger-debugsource
   visiblename: digger
   version: "20020314"
-  origversion: 20020314-4.31
+  origversion: 20020314-4.32
   status: newest
   summary: Unix Version of the old Classic Game
   licenses:
