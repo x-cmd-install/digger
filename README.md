@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 0 | 10 | 0 | 9 | 2 |
-| last60d | 2026-09-14 | 5 | 5 | 23 | 3 | 17 | 6 |
-| 90d | 2026-08-15 | 7 | 8 | 27 | 4 | 19 | 10 |
-| last180d | 2026-05-17 | 11 | 15 | 37 | 4 | 32 | 15 |
-| 360d | 2025-11-18 | 87 | 110 | 73 | 15 | 56 | 106 |
-| last720d | 2024-11-23 | 100 | 515 | 85 | 43 | 159 | 652 |
+| 30d | 2026-10-15 | 1 | 0 | 10 | 0 | 9 | 2 |
+| last60d | 2026-09-15 | 5 | 5 | 23 | 3 | 17 | 6 |
+| 90d | 2026-08-16 | 7 | 8 | 27 | 4 | 19 | 10 |
+| last180d | 2026-05-18 | 11 | 15 | 37 | 4 | 32 | 15 |
+| 360d | 2025-11-19 | 87 | 106 | 73 | 15 | 56 | 106 |
+| last720d | 2024-11-24 | 100 | 515 | 85 | 43 | 159 | 652 |
 
 ## Release assets
 
@@ -192,4 +192,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:39:01Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:19:47Z._
