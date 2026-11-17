@@ -126,6 +126,20 @@
     - GPL-3.0-or-later
   categories:
     - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: digger
+  binnames:
+    - digger
+  visiblename: digger
+  version: 2.6.1
+  origversion: 2.6.1-2.fc45
+  status: outdated
+  summary: Advanced DNS Lookup Tool
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: digger
