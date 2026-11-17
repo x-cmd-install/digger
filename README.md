@@ -14,7 +14,7 @@ x install digger
 
 ## Code insight
 
-Total: **120,802** lines of code across **736** files in the top 5 languages.
+Total: **120,808** lines of code across **736** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.155` (2026-10-30)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-11-16
 - **Assets in release**: 103
 
 ## Popularity
 
-- **Stars**: 5,072 · **Forks**: 612 · **Open issues**: 653 · **Contributors**: 84
+- **Stars**: 5,073 · **Forks**: 611 · **Open issues**: 653 · **Contributors**: 84
 
 ## Totals (cumulative)
 
-- **Releases**: 446 · **Merged PRs**: 1734 · **Open PRs**: 86 · **Closed issues**: 221 · **Open issues**: 432 · **Commits**: 2966
+- **Releases**: 446 · **Merged PRs**: 1735 · **Open PRs**: 86 · **Closed issues**: 221 · **Open issues**: 432 · **Commits**: 2967
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 0 | 11 | 0 | 9 | 0 |
-| last60d | 2026-09-17 | 4 | 5 | 23 | 2 | 16 | 5 |
-| 90d | 2026-08-18 | 7 | 8 | 28 | 4 | 19 | 10 |
-| last180d | 2026-05-20 | 11 | 15 | 38 | 4 | 32 | 15 |
-| 360d | 2025-11-21 | 78 | 93 | 73 | 13 | 56 | 84 |
-| last720d | 2024-11-26 | 100 | 514 | 86 | 43 | 159 | 651 |
+| 30d | 2026-10-18 | 1 | 1 | 11 | 0 | 9 | 1 |
+| last60d | 2026-09-18 | 4 | 6 | 23 | 2 | 16 | 6 |
+| 90d | 2026-08-19 | 7 | 9 | 28 | 4 | 19 | 11 |
+| last180d | 2026-05-21 | 11 | 16 | 38 | 4 | 32 | 16 |
+| 360d | 2025-11-22 | 72 | 93 | 73 | 13 | 56 | 85 |
+| last720d | 2024-11-27 | 100 | 514 | 86 | 43 | 159 | 652 |
 
 ## Release assets
 
@@ -175,7 +175,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **32** distros on [repology.org](https://repology.org/project/digger). **10** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **33** distros on [repology.org](https://repology.org/project/digger). **10** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -192,4 +192,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:21:51Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:09:17Z._
