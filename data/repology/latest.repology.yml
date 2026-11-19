@@ -1,3 +1,15 @@
+- repo: pkgsrc_current
+  srcname: games/digger
+  binname: digger
+  visiblename: games/digger
+  version: "20020314"
+  origversion: 20020314nb8
+  status: newest
+  summary: Digger Remastered
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - games
 - repo: alt_p11
   srcname: digger
   binnames:
@@ -241,22 +253,6 @@
     - unknown
   categories:
     - games
-- repo: mageia_9
-  subrepo: core/release
-  srcname: digger
-  binnames:
-    - digger
-    - digger-debuginfo
-    - digger-debugsource
-  visiblename: digger
-  version: "20160420"
-  origversion: 20160420-4.mga9
-  status: incorrect
-  summary: The Unix version of the old classic game Digger
-  licenses:
-    - GPLv2
-  categories:
-    - Games/Arcade
 - repo: mageia_10
   subrepo: core/release
   srcname: digger
@@ -322,18 +318,6 @@
   categories:
     - games
 - repo: pkgsrc_2026_3
-  srcname: games/digger
-  binname: digger
-  visiblename: games/digger
-  version: "20020314"
-  origversion: 20020314nb8
-  status: newest
-  summary: Digger Remastered
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - games
-- repo: pkgsrc_current
   srcname: games/digger
   binname: digger
   visiblename: games/digger
