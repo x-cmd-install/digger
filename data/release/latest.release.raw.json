@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 114063170,
       "digest": "sha256:4df8cf88e0cf7aec0dbcefefd4cea0714cb3e85718ca9b3a492306b4d67dfe76",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-10-30T14:49:33Z",
       "updated_at": "2026-10-30T14:49:36Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-cli-darwin-arm64"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 115594797,
       "digest": "sha256:6bcd8466f153ad1d3211b82e3d26d58a73932aaf82ae591b09dfa1415d8b8d51",
-      "download_count": 1287,
+      "download_count": 1407,
       "created_at": "2026-10-30T14:49:44Z",
       "updated_at": "2026-10-30T14:49:48Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-cli-linux-amd64"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:57fe33c4bbce5df43813843bccce3a559cf83bd0367b5901f28c75875696b5e7",
-      "download_count": 376,
+      "download_count": 418,
       "created_at": "2026-10-30T14:49:49Z",
       "updated_at": "2026-10-30T14:49:50Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-cli-linux-amd64.sha256"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 109110723,
       "digest": "sha256:44c40e8b33cb1b52d5a724f541d53c78ce45e136622470a9484203361a6dbf1b",
-      "download_count": 527,
+      "download_count": 535,
       "created_at": "2026-10-30T14:50:00Z",
       "updated_at": "2026-10-30T14:50:05Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-cli-linux-arm64"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 115594797,
       "digest": "sha256:6bcd8466f153ad1d3211b82e3d26d58a73932aaf82ae591b09dfa1415d8b8d51",
-      "download_count": 10180,
+      "download_count": 11085,
       "created_at": "2026-10-30T14:49:23Z",
       "updated_at": "2026-10-30T14:49:28Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-cli-Linux-X64"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:57fe33c4bbce5df43813843bccce3a559cf83bd0367b5901f28c75875696b5e7",
-      "download_count": 119,
+      "download_count": 161,
       "created_at": "2026-10-30T14:49:28Z",
       "updated_at": "2026-10-30T14:49:29Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-cli-Linux-X64.sha256"
@@ -3379,7 +3379,7 @@
       "state": "uploaded",
       "size": 115726147,
       "digest": "sha256:00729485d082ae446827cd6dd0d3eefdacacd555ea91159ad5c42250b8d9fabc",
-      "download_count": 3826,
+      "download_count": 4065,
       "created_at": "2026-10-30T14:49:49Z",
       "updated_at": "2026-10-30T14:49:55Z",
       "browser_download_url": "https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-ee-cli-Linux-X64"
