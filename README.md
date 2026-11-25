@@ -30,8 +30,8 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 1 | 12 | 1 | 9 | 1 |
-| last60d | 2026-09-25 | 4 | 6 | 22 | 3 | 16 | 6 |
-| 90d | 2026-08-26 | 7 | 9 | 26 | 5 | 19 | 11 |
-| last180d | 2026-05-28 | 11 | 15 | 37 | 5 | 32 | 15 |
-| 360d | 2025-11-29 | 59 | 84 | 72 | 14 | 54 | 83 |
-| last720d | 2024-12-04 | 100 | 510 | 86 | 44 | 158 | 648 |
+| 30d | 2026-10-26 | 1 | 1 | 11 | 1 | 9 | 1 |
+| last60d | 2026-09-26 | 4 | 6 | 22 | 3 | 16 | 6 |
+| 90d | 2026-08-27 | 7 | 9 | 26 | 5 | 19 | 11 |
+| last180d | 2026-05-29 | 11 | 15 | 37 | 5 | 32 | 15 |
+| 360d | 2025-11-30 | 59 | 83 | 72 | 14 | 54 | 83 |
+| last720d | 2024-12-05 | 100 | 508 | 86 | 44 | 158 | 647 |
 
 ## Release assets
 
@@ -173,16 +173,6 @@ Lowest-scoring checks:
 | [digger-ee-cli-windows-arm64.exe.sha256](https://github.com/diggerhq/digger/releases/download/v0.6.155/digger-ee-cli-windows-arm64.exe.sha256) | 65 B | `native/win/arm64` |
 | [LICENSE](https://github.com/diggerhq/digger/releases/download/v0.6.155/LICENSE) | 1.0 KiB | `other` |
 
-## Distribution status
-
-Reported by **32** distros on [repology.org](https://repology.org/project/digger). **10** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.9.1` | ⚠️ outdated |
-| Debian 14 | `2.9.1` | ⚠️ outdated |
-| Fedora rawhide | `2.6.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `digger` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -192,4 +182,4 @@ Install metadata for digger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:38:25Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:31:24Z._
